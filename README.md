@@ -9,7 +9,7 @@ You can do CopyTrade, Account Managment and Metrics.
 To install the SDK in your project you need to install the package via composer:
 
 ```bash
-composer require javierfernandez93/metaapi-cloud-php-sdk
+composer require javierneuz/metaapi-php-sdk
 ```
 
 ## Usage
